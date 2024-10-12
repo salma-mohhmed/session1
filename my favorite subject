@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <title>Test</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+    <table> 
+        <tr> 
+<th>my favorite subject</th>
+<th> my favorite color</th>
+        </tr>
+        <tr>
+<td> math</td>
+<td> black</td>
+        </tr>
+    </table>
+</body>
+</html>

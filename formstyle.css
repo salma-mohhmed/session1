@@ -1,0 +1,64 @@
+html{
+    background-image: url("back\ ground.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+body {
+    background-color: rgp (255,255,255,0.74);
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: "releway";
+    padding: 20px;
+
+}
+h1, p{
+    text-align: center;
+margin: auto;
+}
+label{
+    display: block;
+    margin: 1em;
+}
+input,select {
+display: block;
+width: 100%;
+font-size: 20px;
+padding: 0.3cm;
+background-color: antiquewhite;
+border: solid 1px antiquewhite;
+resize: vertical;
+ border-radius: 10px;
+}
+input[type=checkbox],input[type=radio] {
+    display: inline;
+    width: auto;
+}
+.inline-label{
+    display: inline;
+    width: auto;
+}
+option {
+    color: black(0,0,0);
+    background-color: azure(255,255,255);
+} 
+select{
+    color: indigo;
+}
+input[type=submit]:hover,
+input[type=sumbit]:focus {
+overflow: none;
+background-color: green(5,129,88);
+}
+input[type=reset]:hover,
+input[type=reset]:focus {
+    outline: none;
+    border-color: red(129,3,18);
+}
+input[type=reset]
+input[type=submit]{
+backgrond:reb(27,44,141);
+color:white;
+margin-top:1em;
+broder-radius:10px;
+}
